@@ -1,0 +1,20 @@
+C:\Users\713384\source\repos\unit 25\unit 25\bin\Debug\net8.0-windows\unit 25.exe
+C:\Users\713384\source\repos\unit 25\unit 25\bin\Debug\net8.0-windows\unit 25.deps.json
+C:\Users\713384\source\repos\unit 25\unit 25\bin\Debug\net8.0-windows\unit 25.runtimeconfig.json
+C:\Users\713384\source\repos\unit 25\unit 25\bin\Debug\net8.0-windows\unit 25.dll
+C:\Users\713384\source\repos\unit 25\unit 25\bin\Debug\net8.0-windows\unit 25.pdb
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit_25.Form1.resources
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit_25.Form2.resources
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit_25.Form3.resources
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit_25.Form4.resources
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit_25.Form5.resources
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit 25.vbproj.GenerateResource.cache
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit 25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit 25.AssemblyInfoInputs.cache
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit 25.AssemblyInfo.vb
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit 25.vbproj.CoreCompileInputs.cache
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit 25.dll
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\refint\unit 25.dll
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit 25.pdb
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\unit 25.genruntimeconfig.cache
+C:\Users\713384\source\repos\unit 25\unit 25\obj\Debug\net8.0-windows\ref\unit 25.dll
